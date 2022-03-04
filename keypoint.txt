@@ -1,0 +1,35 @@
+HTML structure
+html tags
+--opening and closing tags
+--self-closing tags
+Heading tags
+Paragraph tag
+
+generate 'lorem ipsum' dummy text
+***link tags
+anchor tag
+attribute
+List
+    Unordered list
+    Ordered list
+Inline and Block HTML Elements
+Button
+Tables
+Forms
+Images
+Videos
+HTML Semantic Tags
+
+<b> - Bold text
+<strong> - Important text
+<i> - Italic text
+<em> - Emphasized text
+<mark> - Marked text
+<small> - Smaller text
+<del> - Deleted text
+<ins> - Inserted text
+<sub> - Subscript text
+<sup> - Superscript text
+
+inline elements
+block elements

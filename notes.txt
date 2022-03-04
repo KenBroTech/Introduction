@@ -1,0 +1,16 @@
+--------------------- INTRO -----------------------------------
+HTML stands for Hyper Text Markup Language
+HTML is the standard markup language for creating Web pages
+HTML describes the structure of a Web page
+A typical website will have a number of HTML elements
+HTML elements tell the browser how to display the content
+
+------------------ HTML ELEMENTS ----------------------------
+
+
+
+------------------ HTML ATTRIBUTES ----------------------------
+All HTML elements can have attributes
+Attributes provide additional information about elements
+Attributes are always specified in the start or opening tag
+Attributes usually come in name/value pairs like: style="background-color:powderblue;"
